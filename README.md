@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Jenny Lynn Toukam 👋
 
-<!--
-**Jennytoukam/Jennytoukam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | Full Stack Development | Database Systems
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software development professional with a Bachelor's
+degree in Software Engineering and Databases.
+
+I enjoy designing and developing digital solutions,
+working with databases, and contributing to
+innovative technology projects.
+
+## 🚀 About Me
+
+- 💻 Software Engineering & Application Development
+- 🌐 Web Development
+- 🗄️ Database Design & Management
+- 📊 Data Analytics & Business Intelligence
+- 🎓 Technology & Knowledge Sharing
+
+## 🛠️ Tech Stack
+
+**Languages & Technologies**
+
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+**Web Development**
+
+- Angular
+- HTML5
+- CSS3
+
+**Databases**
+
+- Relational Databases
+- SQL
+
+**Tools**
+
+- Git
+- GitHub
+
+## 🌍 My Portfolio
+
+Check out my portfolio:
+
+🔗 https://jenny-toukam.vercel.app
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://jenny-toukam.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/jenny-toukam/
